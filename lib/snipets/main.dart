@@ -197,7 +197,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       Row(
                         mainAxisSize: MainAxisSize.min,
                         children: const [
-                          CircleAvatar(child: Text('A'), radius: 20),
+                          CircleAvatar(radius: 20, child: Text('A')),
                           SizedBox(width: 12),
                           Icon(Icons.person, size: 32),
                         ],
