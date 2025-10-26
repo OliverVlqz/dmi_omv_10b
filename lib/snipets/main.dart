@@ -192,7 +192,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   color: Colors.grey.shade300,
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment
-                        .start, // cambiar a center o end para probar
+                        .end, // cambiar a center o end para probar
                     children: [
                       Row(
                         mainAxisSize: MainAxisSize.min,

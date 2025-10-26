@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75889539487",
+    "project_id": "dmi-login-omv",
+    "storage_bucket": "dmi-login-omv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75889539487:android:728fda71a9d90ef714e5aa",
+        "android_client_info": {
+          "package_name": "com.example.dmi_omv_10b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzVuocz0BxfT1QNHNZGBJE4O6YWA_PAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

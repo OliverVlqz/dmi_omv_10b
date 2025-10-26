@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "dmi-login-omv",
+          "appId": "1:75889539487:android:728fda71a9d90ef714e5aa",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "dmi-login-omv",
+          "configurations": {
+            "android": "1:75889539487:android:728fda71a9d90ef714e5aa",
+            "ios": "1:75889539487:ios:670ed1cbdaee695d14e5aa",
+            "macos": "1:75889539487:ios:670ed1cbdaee695d14e5aa",
+            "web": "1:75889539487:web:91590621c3b735f314e5aa",
+            "windows": "1:75889539487:web:313fb14e7b77023314e5aa"
+          }
+        }
+      }
+    }
+  }
+}
