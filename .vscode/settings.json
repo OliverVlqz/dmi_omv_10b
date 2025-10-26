@@ -1,3 +1,6 @@
 {
   "java.configuration.updateBuildConfiguration": "interactive"
 }
+{
+  "cmake.sourceDirectory": "D:/VisualStudioProjects/dmi_omv_10b/linux"
+}
