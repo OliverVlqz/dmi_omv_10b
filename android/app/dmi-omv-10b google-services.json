@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969804610426",
+    "project_id": "dmi-omv-10b",
+    "storage_bucket": "dmi-omv-10b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969804610426:android:f311aaf92d848c253b74c3",
+        "android_client_info": {
+          "package_name": "com.example.dmi_omv_10b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNjbW4OPaMPRtjh96NeaxqR1B-6rc6444"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
